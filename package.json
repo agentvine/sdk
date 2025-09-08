@@ -37,10 +37,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rishirebel/agentvine.git"
+    "url": "git+https://github.com/agentvine/sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/rishirebel/agentvine/issues"
+    "url": "https://github.com/agentvine/sdk/issues"
   },
   "homepage": "https://agentvine.com",
   "dependencies": {
